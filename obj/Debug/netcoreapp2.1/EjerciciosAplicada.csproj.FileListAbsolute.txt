@@ -1,0 +1,11 @@
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\obj\Debug\netcoreapp2.1\EjerciciosAplicada.csprojAssemblyReference.cache
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\obj\Debug\netcoreapp2.1\EjerciciosAplicada.csproj.CoreCompileInputs.cache
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\obj\Debug\netcoreapp2.1\EjerciciosAplicada.AssemblyInfoInputs.cache
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\obj\Debug\netcoreapp2.1\EjerciciosAplicada.AssemblyInfo.cs
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\bin\Debug\netcoreapp2.1\EjerciciosAplicada.deps.json
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\bin\Debug\netcoreapp2.1\EjerciciosAplicada.runtimeconfig.json
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\bin\Debug\netcoreapp2.1\EjerciciosAplicada.runtimeconfig.dev.json
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\bin\Debug\netcoreapp2.1\EjerciciosAplicada.dll
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\bin\Debug\netcoreapp2.1\EjerciciosAplicada.pdb
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\obj\Debug\netcoreapp2.1\EjerciciosAplicada.dll
+C:\Users\Emminton\source\repos\EjerciciosAplicada\EjerciciosAplicada\obj\Debug\netcoreapp2.1\EjerciciosAplicada.pdb
